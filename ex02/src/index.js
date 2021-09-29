@@ -1,7 +1,7 @@
 const MY_CAR = {
     wheels: 4,
     cylinders: 4,
-    size: 2.
+    size: 2.2
 };
 
 function main(car){
